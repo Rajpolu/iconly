@@ -35,6 +35,3 @@ improvement to the build setup, feel free to get involved.
 6. Open a Pull Request describing what you changed and why
 
 Please keep PRs focused — one feature or fix per PR makes review much faster.
-
-By participating in this project, you agree to abide by our
-[Code of Conduct](./CODE_OF_CONDUCT.md).
