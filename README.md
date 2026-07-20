@@ -1,6 +1,6 @@
 # Iconly — 3D Icon Studio
 
-![License](https://img.shields.io/github/license/Rajpolu/iconly)
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Last Commit](https://img.shields.io/github/last-commit/Rajpolu/iconly)
 ![Stars](https://img.shields.io/github/stars/Rajpolu/iconly?style=social)
 ![Forks](https://img.shields.io/github/forks/Rajpolu/iconly?style=social)
