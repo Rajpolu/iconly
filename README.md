@@ -16,6 +16,14 @@
 ![Made with React](https://img.shields.io/badge/Made%20with-React-61DAFB?logo=react&logoColor=white)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 
+![License](https://img.shields.io/github/license/Rajpolu/iconly)
+![Last Commit](https://img.shields.io/github/last-commit/Rajpolu/iconly)
+![Stars](https://img.shields.io/github/stars/Rajpolu/iconly?style=social)
+![Forks](https://img.shields.io/github/forks/Rajpolu/iconly?style=social)
+![Issues](https://img.shields.io/github/issues/Rajpolu/iconly)
+![Made with React](https://img.shields.io/badge/Made%20with-React-61DAFB?logo=react&logoColor=white)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
+
 This is the same app as the single-file version, split into separate files:
 
 - `index.html` — HTML5 shell, loads everything else
