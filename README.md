@@ -1,4 +1,4 @@
-# Iconly — 3D Icon Studio (split build)
+# Iconly — 3D Icon Studio
 
 This is the same app as the single-file version, split into separate files:
 
