@@ -40,16 +40,4 @@ improvement to the build setup, feel free to get involved.
 5. Push to your fork (`git push origin feature/my-icon`)
 6. Open a Pull Request describing what you changed and why
 
-## Contributing
-
-Contributions are welcome! Whether it's a new icon, a bug fix, or an
-improvement to the build setup, feel free to get involved.
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/my-icon`)
-3. Make your changes
-4. Commit with a clear message (`git commit -m "Add new icon: rocket"`)
-5. Push to your fork (`git push origin feature/my-icon`)
-6. Open a Pull Request describing what you changed and why
-
 Please keep PRs focused — one feature or fix per PR makes review much faster.
