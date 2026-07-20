@@ -1,5 +1,21 @@
 # Iconly — 3D Icon Studio
 
+![License](https://img.shields.io/github/license/Rajpolu/iconly)
+![Last Commit](https://img.shields.io/github/last-commit/Rajpolu/iconly)
+![Stars](https://img.shields.io/github/stars/Rajpolu/iconly?style=social)
+![Forks](https://img.shields.io/github/forks/Rajpolu/iconly?style=social)
+![Issues](https://img.shields.io/github/issues/Rajpolu/iconly)
+![Made with React](https://img.shields.io/badge/Made%20with-React-61DAFB?logo=react&logoColor=white)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
+
+![License](https://img.shields.io/github/license/Rajpolu/iconly)
+![Last Commit](https://img.shields.io/github/last-commit/Rajpolu/iconly)
+![Stars](https://img.shields.io/github/stars/Rajpolu/iconly?style=social)
+![Forks](https://img.shields.io/github/forks/Rajpolu/iconly?style=social)
+![Issues](https://img.shields.io/github/issues/Rajpolu/iconly)
+![Made with React](https://img.shields.io/badge/Made%20with-React-61DAFB?logo=react&logoColor=white)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
+
 This is the same app as the single-file version, split into separate files:
 
 - `index.html` — HTML5 shell, loads everything else
@@ -35,3 +51,23 @@ improvement to the build setup, feel free to get involved.
 6. Open a Pull Request describing what you changed and why
 
 Please keep PRs focused — one feature or fix per PR makes review much faster.
+<<<<<<< HEAD
+=======
+
+By participating in this project, you agree to abide by our
+[Code of Conduct](./CODE_OF_CONDUCT.md).
+
+## Contributing
+
+Contributions are welcome! Whether it's a new icon, a bug fix, or an
+improvement to the build setup, feel free to get involved.
+
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/my-icon`)
+3. Make your changes
+4. Commit with a clear message (`git commit -m "Add new icon: rocket"`)
+5. Push to your fork (`git push origin feature/my-icon`)
+6. Open a Pull Request describing what you changed and why
+
+Please keep PRs focused — one feature or fix per PR makes review much faster.
+>>>>>>> 52f96a3 (Add README badges)
