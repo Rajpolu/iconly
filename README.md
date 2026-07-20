@@ -40,13 +40,6 @@ improvement to the build setup, feel free to get involved.
 5. Push to your fork (`git push origin feature/my-icon`)
 6. Open a Pull Request describing what you changed and why
 
-Please keep PRs focused — one feature or fix per PR makes review much faster.
-<<<<<<< HEAD
-=======
-
-By participating in this project, you agree to abide by our
-[Code of Conduct](./CODE_OF_CONDUCT.md).
-
 ## Contributing
 
 Contributions are welcome! Whether it's a new icon, a bug fix, or an
@@ -60,4 +53,3 @@ improvement to the build setup, feel free to get involved.
 6. Open a Pull Request describing what you changed and why
 
 Please keep PRs focused — one feature or fix per PR makes review much faster.
->>>>>>> 52f96a3 (Add README badges)
