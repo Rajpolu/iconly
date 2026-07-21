@@ -8,6 +8,10 @@
 ![Made with React](https://img.shields.io/badge/Made%20with-React-61DAFB?logo=react&logoColor=white)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 
+
+## Live Demo
+👉 [https://rajpolu.github.io/iconly/](https://rajpolu.github.io/iconly/)
+
 - `index.html` — HTML5 shell, loads everything else
 - `base.css` — page-level CSS (background, root container, error banner)
 - `app.jsx` — the React app source (components, styles, icon library, Ask AI logic)
