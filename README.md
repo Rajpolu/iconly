@@ -8,9 +8,14 @@
 ![Made with React](https://img.shields.io/badge/Made%20with-React-61DAFB?logo=react&logoColor=white)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 
+![Iconly Studio Screenshot](./assets/iconly-studio-screenshot.png)
+
+Iconly is a 3D icon studio built with React that generates gradient-style 3D icons directly in the browser — no build step required.
 
 ## Live Demo
 👉 [https://rajpolu.github.io/iconly/](https://rajpolu.github.io/iconly/)
+
+## Getting Started
 
 - `index.html` — HTML5 shell, loads everything else
 - `base.css` — page-level CSS (background, root container, error banner)
